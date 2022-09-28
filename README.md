@@ -3,14 +3,14 @@
 **Conduit API backend automation**
 
 **About the project:**
-Conduit es una plataforma que hemos desarrollado para uno de nuestros clientes
-que se encuentra en constante crecimiento.
-Dicho sistema, permite a sus usuarios compartir artículos de lectura de diferentes
-categorías (similar a Medium), donde es posible realizar las siguientes acciones
-entre su comunidad de usuarios:
-● Dar like a posts
-● Dejar comentarios en posts
-● Follow/Unfollow a otros usuarios
+Conduit is a platform that we have developed for one of our clients
+which is constantly growing.
+This system allows its users to share reading articles from different
+categories (similar to Medium), where it is possible to perform the following actions
+among its user community:
+● Like posts<br/>
+● Leave comments on posts<br/>
+● Follow/Unfollow other users<br/>
 
 **_Notes:_**
 
