@@ -7,7 +7,7 @@ Conduit is a platform that we have developed for one of our clients
 which is constantly growing.
 This system allows its users to share reading articles from different
 categories (similar to Medium), where it is possible to perform the following actions
-among its user community:
+among its user community:<br/>
 ● Like posts<br/>
 ● Leave comments on posts<br/>
 ● Follow/Unfollow other users<br/>
