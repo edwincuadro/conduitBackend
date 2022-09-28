@@ -1,6 +1,7 @@
 {
   "dev": {
     "url": "https://angular-conduit-node.herokuapp.com/api",
-    "Token": "f4cc8507103d264657a19e9966dfb9926aa69a8c3891aacf5a5d72c57b352a7b"
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzMzM3OWExN2Q3MTUyMDAxNzE1NjEwYSIsInVzZXJuYW1lIjoiZGR3aW5jdWFkcm8iLCJleHAiOjE2Njk1MDE4NTcsImlhdCI6MTY2NDMxNzg1N30.4C-7mJj3BnNfkT5sJi3zC-qfn6CZDTkm4BBhvYpWgOs",
+    "slug":"the-sea-fguhub"
   }
 }
